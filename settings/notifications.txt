@@ -1,0 +1,20 @@
+The User Deleted!
+The User "a a" deleted.
+20/06/2023 21:06:41
+C:\Users\emirs\Desktop\pics\appIcons\bell-ring.png
+Student Class Changed!
+The Student "a a" class changed. New Class: bb
+20/06/2023 21:07:01
+C:\Users\emirs\Desktop\pics\appIcons\bell-ring.png
+Class Removed!
+The Class "ComputerEngineering" removed.
+21/06/2023 15:23:05
+C:\Users\emirs\Desktop\pics\appIcons\bell-ring.png
+Student Class Changed!
+The Student "aa aa" class changed. New Class: bb
+21/06/2023 15:23:51
+C:\Users\emirs\Desktop\pics\appIcons\bell-ring.png
+New Class Added!
+New Class "kayıt" created.
+21/06/2023 15:26:39
+C:\Users\emirs\Desktop\pics\appIcons\bell-ring.png
