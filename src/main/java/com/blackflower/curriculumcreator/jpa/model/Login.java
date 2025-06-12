@@ -39,7 +39,7 @@ public class Login {
     }
     
     public static Person checkRememberMe() {
-        String filename = "C:\\Users\\emirs\\Documents\\NetBeansProjects\\CurriculumCreator\\settings\\rememberMe.txt";
+        String filename = "settings/rememberMe.txt";
 
         ArrayList<String> lines = new ArrayList<>();
         try {
